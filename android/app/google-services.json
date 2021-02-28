@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "133267682539",
+    "project_id": "utilityapp-e205a",
+    "storage_bucket": "utilityapp-e205a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:133267682539:android:167b531d1819e2746dfaae",
+        "android_client_info": {
+          "package_name": "ahmetolgun.utilityapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "133267682539-3n5op0g7okvi14bg9nqt8koo36b8loi0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ahmetolgun.utilityapp",
+            "certificate_hash": "8a1aa674b09c7f07d4d2a6eaeedcc4f9405e6785"
+          }
+        },
+        {
+          "client_id": "133267682539-lpgbo1h76i2514itkl696e695fbk0ido.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNucd4Qi1IO6XlQHFuiYGgniwrIm62B7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "133267682539-lpgbo1h76i2514itkl696e695fbk0ido.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
